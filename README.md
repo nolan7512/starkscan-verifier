@@ -34,7 +34,7 @@ Anyone can upload any ABI to Starknet and block explorers will assume it is corr
 
 ### What happens after you verify?
 
-- [Transactions](https://starkscan.co/txs) and [Events](https://starkscan.co/events) are correctly decoded to human readable functions, inputs and outputs.
+- [Transactions] (https://starkscan.co/txs) and [Events] (https://starkscan.co/events) are correctly decoded to human readable functions, inputs and outputs.
 - Run read and write operations on the contract state safely and accurately.
 - Users who look at your contracts on Starkscan can trust that all the information is correct.
 
